@@ -26,7 +26,9 @@ python: [i use pyenv above to install python]
 
 https://www.python.org/
 
-COMMANDS:
+let's get started !!  🐍🐍🐍🐍
+
+#### COMMANDS:
 
 • create workspace directory named `min_dja_ws`
 ```
