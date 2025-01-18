@@ -3,6 +3,9 @@
 i use the apple computer `terminal` [zsh] with `homebrew`, `pyenv` and `vscode`
 [please ignore these commands on other systems and feel free to suggest alternate commands that i could add to this tutorial]
 
+i have used `Python 3.13.1` and `Django 5.1.5` for this tutorial.
+this tutorial should work with other versions as well [if you have success let me know]
+
 homebrew:
 
 https://brew.sh/
@@ -11,8 +14,17 @@ pyenv:
 
 https://github.com/pyenv/pyenv
 
-i have used `Python 3.13.1` and `Django 5.1.5` for this tutorial.
-this tutorial should work with other versions as well [if you have success let me know]
+vscode:
+
+https://code.visualstudio.com/
+
+django:
+
+https://www.djangoproject.com/
+
+python: [i use pyenv above to install python]
+
+https://www.python.org/
 
 COMMANDS:
 • create workspace directory named `min_dja_ws`
