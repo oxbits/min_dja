@@ -100,6 +100,7 @@ you should see the famous Django rocket !!  🚀🚀🚀🚀
 
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/dc6aa4b1-a668-4ac5-8857-0893cf6d3dfb" />
 
+#### CREATE DJANGO APP
 • use `Django`'s `manage.py` to `startapp` named `min_dja_app`
 ```
 python manage.py startapp min_dja_app
