@@ -153,7 +153,10 @@ http://127.0.0.1:8000/heyo/
 
 you should see the JSON response from your API's end point:
 ```
-
+{
+"heyo": "multiverse",
+"request.GET": {}
+}
 ```
 try adding some key value parameters to the URL query string
 
