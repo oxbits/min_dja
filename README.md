@@ -1,10 +1,15 @@
 # BARE MINIMUM DJANGO TUTORIAL
 
-i use an apple computer with `homebrew` and `pyenv` 
+i use the apple computer `terminal` [zsh] with `homebrew`, `pyenv` and `vscode`
 [please ignore these commands on other systems and feel free to suggest alternate commands that i could add to this tutorial]
 
-homebrew: https://brew.sh/
-pyenv: https://github.com/pyenv/pyenv
+homebrew:
+
+https://brew.sh/
+
+pyenv:
+
+https://github.com/pyenv/pyenv
 
 i have used `Python 3.13.1` and `Django 5.1.5` for this tutorial.
 this tutorial should work with other versions as well [if you have success let me know]
