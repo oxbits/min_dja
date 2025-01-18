@@ -27,6 +27,7 @@ python: [i use pyenv above to install python]
 https://www.python.org/
 
 COMMANDS:
+
 • create workspace directory named `min_dja_ws`
 ```
 mkdir min_dja_ws
@@ -103,8 +104,11 @@ manage.py	min_dja_app	min_dja_proj
 python manage.py runserver
 ```
 open a browser and go to:
+
 http://127.0.0.1:8000/
+
 you should see the famous Django rocket !!  🚀🚀🚀🚀
+
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/dc6aa4b1-a668-4ac5-8857-0893cf6d3dfb" />
 
 
