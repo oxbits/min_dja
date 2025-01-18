@@ -88,17 +88,6 @@ env	min_dja
 ```
 cd min_dja
 ```
-• use `Django`'s `manage.py` to `startapp` named `min_dja_app`
-```
-python manage.py startapp min_dja_app
-```
-• before we change any code look around: list Django's `manage.py` file and project and app directories, `min_dja_proj` and `min_dja_app`, in current directory `min_dja_ws`
-```
-ls
-```
-```
-manage.py	min_dja_app	min_dja_proj
-```
 • run the development server using Django's `manage.py` command `runserver`
 ```
 python manage.py runserver
@@ -110,6 +99,20 @@ http://127.0.0.1:8000/
 you should see the famous Django rocket !!  🚀🚀🚀🚀
 
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/dc6aa4b1-a668-4ac5-8857-0893cf6d3dfb" />
+
+• use `Django`'s `manage.py` to `startapp` named `min_dja_app`
+```
+python manage.py startapp min_dja_app
+```
+• before we change any code look around: list Django's `manage.py` file and project and app directories, `min_dja_proj` and `min_dja_app`, in current directory `min_dja_ws`
+```
+ls
+```
+output:
+```
+manage.py	min_dja_app	min_dja_proj
+```
+
 
 
 
