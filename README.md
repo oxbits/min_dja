@@ -1,4 +1,5 @@
-# BARE MINIMUM DJANGO TUTORIAL [ [60 SECONDS](#lightning-speed) ⚡⚡⚡⚡ ]
+# BARE MINIMUM DJANGO TUTORIAL
+# [ [60 SECONDS](#lightning-speed) ⚡⚡⚡⚡ ]
 
 i use the default z shell `zsh` in the apple computer `terminal` with `homebrew`, `pyenv` and `vscode`
 
