@@ -110,7 +110,7 @@ output:
 manage.py	min_dja_app	min_dja_proj
 ```
 
-#### EDIT FILES:
+## EDIT FILES -
 
 open this file:
 
