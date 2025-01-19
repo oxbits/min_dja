@@ -8,7 +8,9 @@ this tutorial should work with other versions as well [if you have success let m
 
 [see links at the bottome of the page]
 
-let's get started !!  🐍🐍🐍🐍
+let's get started !!
+
+🐍🐍🐍🐍
 
 #### COMMANDS:
 
@@ -80,7 +82,9 @@ open a browser and go to:
 
 http://127.0.0.1:8000/
 
-you should see the famous Django rocket !!  🚀🚀🚀🚀
+you should see the famous Django rocket !!
+
+🚀🚀🚀🚀
 
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/dc6aa4b1-a668-4ac5-8857-0893cf6d3dfb" />
 
@@ -202,7 +206,10 @@ min_dja % tree .
     └── wsgi.py
 
 ```
-# LIGHTNING SPEED: ⚡⚡⚡⚡
+# LIGHTNING SPEED:
+
+⚡⚡⚡⚡
+
 i was able to copy, paste and run these commands in one go in my terminal, change the files, and launch the development server to complete this tutorial in lightning speed ....
 ```
 mkdir min_dja_ws
