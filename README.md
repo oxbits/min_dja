@@ -96,7 +96,7 @@ you should see the famous Django rocket !!
 
 ---
 
-#### CREATE DJANGO APP
+## CREATE DJANGO APP
 • use `Django`'s `manage.py` to `startapp` named `min_dja_app`
 ```
 python manage.py startapp min_dja_app
