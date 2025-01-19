@@ -87,7 +87,7 @@ you should see the famous Django rocket !!
 🚀🚀🚀🚀
 
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/dc6aa4b1-a668-4ac5-8857-0893cf6d3dfb" />
-
+---
 #### CREATE DJANGO APP
 • use `Django`'s `manage.py` to `startapp` named `min_dja_app`
 ```
@@ -182,14 +182,13 @@ you should see the JSON response from your API's end point echo back key values 
 }
 ```
 that's about it !!  [try [LIGHTNING SPEED](#lightning-speed) below]
-
+---
 #### DJANGO PROJECT FILE STRUCTURE:
 
 `min_dja_ws/min_dja`:
 ```
 min_dja % tree .    
 .
-├── db.sqlite3
 ├── manage.py
 ├── min_dja_app
 │   ├── __init__.py
@@ -199,15 +198,16 @@ min_dja % tree .
 │   │   └── __init__.py
 │   ├── models.py
 │   ├── tests.py
-│   └── views.py
+│   └── views.py  ** WE CHANGED THIS FILE
 └── min_dja_proj
     ├── __init__.py
     ├── asgi.py
-    ├── settings.py
-    ├── urls.py
+    ├── settings.py  ** WE CHANGED THIS FILE
+    ├── urls.py  ** WE CHANGED THIS FILE
     └── wsgi.py
 
 ```
+---
 # LIGHTNING SPEED:
 
 ⚡⚡⚡⚡
