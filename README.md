@@ -189,7 +189,11 @@ you should see the JSON response from your API's end point echo back key values 
     }
 }
 ```
-that's about it !!  [ try [LIGHTNING SPEED](#lightning-speed) below ⚡⚡⚡⚡ ]
+that's about it
+
+enjoy !!
+
+[ try [LIGHTNING SPEED](#lightning-speed) below ⚡⚡⚡⚡ ]
 
 ---
 
@@ -251,7 +255,9 @@ python manage.py runserver
 
 http://127.0.0.1:8000/heyo/?alligator=bear&cat=dog&wolf=xenops&yak=zebra
 
-now that's really it, ENJOY !!!!
+now that's really it
+
+ENJOY !!!!
 
 ---
 
@@ -273,15 +279,15 @@ YOU ARE THE GREATEST CODER THAT EVER LIVED !!!!
 
 https://www.djangoproject.com/
 
-###### Python: [i use `pyenv` below to install python]
+###### Python: [ i use `pyenv` below to install python ]
 
 https://www.python.org/
 
-###### Homebrew: [i use Homebrew to install pyenv]
+###### Homebrew: [ i use Homebrew to install pyenv ]
 
 https://brew.sh/
 
-###### pyenv: [manage multiple versions of python on your computer]
+###### pyenv: [ manage multiple versions of python on your computer ]
 
 https://github.com/pyenv/pyenv
 
@@ -289,7 +295,7 @@ https://github.com/pyenv/pyenv
 
 https://code.visualstudio.com/
 
-###### vscodium: [open source builds of vscode; i have used both]
+###### vscodium: [ open source builds of vscode; i have used both ]
 
 https://vscodium.com/
 
