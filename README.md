@@ -18,7 +18,7 @@ let's get started !!
 
 ---
 
-#### COMMANDS:
+## COMMANDS:
 
 • create workspace directory named `min_dja_ws`
 ```
@@ -160,6 +160,9 @@ urlpatterns = [
 ]
 
 ```
+
+## RUN AND TEST APP -
+
 • run the development server using Django's `manage.py` command `runserver`
 ```
 python manage.py runserver
