@@ -110,6 +110,8 @@ output:
 manage.py	min_dja_app	min_dja_proj
 ```
 
+#### EDIT FILES:
+
 open this file:
 
 `min_dja_ws/min_dja/min_dja_proj/settings.py`
