@@ -15,7 +15,7 @@ this tutorial should work with other versions as well
 let's get started !!
 
 🐍🐍🐍🐍
-
+---
 #### COMMANDS:
 
 • create workspace directory named `min_dja_ws`
