@@ -233,7 +233,7 @@ min_dja % tree .
 
 ⚡⚡⚡⚡
 
-i was able to copy, paste and run these commands in one go in my terminal, change the files, and launch the development server to complete this tutorial in lightning speed ....
+i was able to copy, paste and run these commands in one go in my terminal, change the files, launch the development server, and test the API in the browser to complete this tutorial in less than 60 seconds ....
 ```
 mkdir min_dja_ws
 cd min_dja_ws
