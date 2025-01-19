@@ -42,7 +42,7 @@ Python 3.13.1
 ```
 • create a python virtual environment name `env` 
 ```
-python -m -venv env
+python -m venv env
 ```
 • activate the virtual environment
 ```
@@ -238,7 +238,7 @@ i was able to copy, paste and run these commands in one go in my terminal, chang
 mkdir min_dja_ws
 cd min_dja_ws
 pyenv local 3.13.1
-python -m -venv env
+python -m venv env
 source ./env/bin/activate
 python -m pip install Django
 mkdir min_dja
