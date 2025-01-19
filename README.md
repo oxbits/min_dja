@@ -240,6 +240,8 @@ DJANGO IS THE GREATEST !!!!
 
 YOU ARE THE GREATEST CODER THAT EVER LIVED !!!!
 
+⚡⚡⚡⚡
+
 #### LINKS:
 
 ###### Django:
