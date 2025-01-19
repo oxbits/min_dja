@@ -199,6 +199,24 @@ min_dja % tree .
     └── wsgi.py
 
 ```
+# LIGHTNING SPEED: ⚡⚡⚡⚡
+i was able to copy, paste and run these commands in one go in my terminal, change the files, and launch the development server to complete this tutorial in lightning speed ....
+```
+mkdir min_dja_ws
+cd min_dja_ws
+pyenv local 3.13.1
+python -m -venv env
+source ./env/bin/activate
+python -m pip install Django
+mkdir min_dja
+django-admin startproject min_dja_proj min_dja
+cd min_dja
+python manage.py startapp min_dja_app
+```
+• change the 3 files and run this command and then test in browser:
+```
+python manage.py runserver
+```
 PYTHON IS THE GREATEST !!!!
 
 🐍🐍🐍🐍
