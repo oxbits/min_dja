@@ -112,7 +112,7 @@ manage.py	min_dja_app	min_dja_proj
 
 open this file:
 
-`min_dja/min_dja_proj/settings.py`
+`min_dja_ws/min_dja/min_dja_proj/settings.py`
 
 you can comment out everything except these 3 lines or you can even just replace the file contents with this:
 #### settings.py
@@ -126,7 +126,7 @@ ROOT_URLCONF = 'min_dja_proj.urls'
 ```
 open this file:
 
-`min_dja/min_dja_app/views.py`
+`min_dja_ws/min_dja/min_dja_app/views.py`
 
 replace the contents with this code:
 #### views.py
@@ -143,7 +143,7 @@ def heyo(request):
 ```
 open this file:
 
-`min_dja/min_dja_proj/urls.py`
+`min_dja_ws/min_dja/min_dja_proj/urls.py`
 
 replace the contents with this code:
 #### urls.py
@@ -243,9 +243,9 @@ python manage.py startapp min_dja_app
 ```
 • change the 3 files:
 ```
-min_dja/min_dja_proj/settings.py
-min_dja/min_dja_app/views.py
-min_dja/min_dja_proj/urls.py
+min_dja_ws/min_dja/min_dja_proj/settings.py
+min_dja_ws/min_dja/min_dja_app/views.py
+min_dja_ws/min_dja/min_dja_proj/urls.py
 ```
 • run this command: 
 ```
