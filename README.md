@@ -1,4 +1,4 @@
-# BARE MINIMUM DJANGO TUTORIAL <br /> [ [60 SECONDS](#lightning-speed) ⚡⚡⚡⚡ ]
+# BARE MINIMUM DJANGO TUTORIAL <br /> [ [60 SECONDS](#lightning-speed--60-seconds-) ⚡⚡⚡⚡ ]
 
 i use the default z shell `zsh` in the apple computer `terminal` with `homebrew`, `pyenv` and `vscode`
 
@@ -193,7 +193,7 @@ that's about it
 
 enjoy !!
 
-[ try [LIGHTNING SPEED](#lightning-speed) below: 60 SECONDS ⚡⚡⚡⚡ ]
+[ try [LIGHTNING SPEED](#lightning-speed--60-seconds-) below: 60 SECONDS ⚡⚡⚡⚡ ]
 
 ---
 
