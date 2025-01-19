@@ -110,7 +110,7 @@ output:
 manage.py	min_dja_app	min_dja_proj
 ```
 
-## EDIT FILES -
+## EDIT FILES
 
 open this file:
 
@@ -161,7 +161,7 @@ urlpatterns = [
 
 ```
 
-## RUN AND TEST APP -
+## RUN AND TEST APP
 
 • run the development server using Django's `manage.py` command `runserver`
 ```
@@ -246,7 +246,7 @@ django-admin startproject min_dja_proj min_dja
 cd min_dja
 python manage.py startapp min_dja_app
 ```
-• change the 3 files: [ [per above instructions](#edit-files--) ]
+• change the 3 files: [ [per above instructions](#edit-files) ]
 ```
 min_dja_ws/min_dja/min_dja_proj/settings.py
 min_dja_ws/min_dja/min_dja_app/views.py
