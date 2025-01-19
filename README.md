@@ -174,6 +174,31 @@ you should see the JSON response from your API's end point echo back key values 
     }
 }
 ```
+#### DJANGO PROJECT FILE STRUCTURE:
+
+`min_dja_ws/min_dja`:
+```
+min_dja % tree .    
+.
+├── db.sqlite3
+├── manage.py
+├── min_dja_app
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+└── min_dja_proj
+    ├── __init__.py
+    ├── asgi.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+```
 PYTHON IS THE GREATEST !!!!
 
 🐍🐍🐍🐍
