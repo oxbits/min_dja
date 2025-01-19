@@ -181,6 +181,8 @@ you should see the JSON response from your API's end point echo back key values 
     }
 }
 ```
+that's it !!  [try lightning speed below: ]
+
 #### DJANGO PROJECT FILE STRUCTURE:
 
 `min_dja_ws/min_dja`:
@@ -236,6 +238,10 @@ python manage.py runserver
 • test in browser:
 
 http://127.0.0.1:8000/heyo/?alligator=bear&cat=dog&wolf=xenops&yak=zebra
+
+now that's really it, ENJOY !!!!
+
+########
 
 PYTHON IS THE GREATEST !!!!
 
