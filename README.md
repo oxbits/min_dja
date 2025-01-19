@@ -181,7 +181,7 @@ you should see the JSON response from your API's end point echo back key values 
     }
 }
 ```
-that's it !!  [try lightning speed below: ]
+that's about it !!  [try [LIGHTNING SPEED](#lightning-speed) below]
 
 #### DJANGO PROJECT FILE STRUCTURE:
 
